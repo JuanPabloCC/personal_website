@@ -1,1 +1,1 @@
-# personal_webstie
+# personal_website
